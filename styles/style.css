@@ -1,10 +1,12 @@
 p {
+    font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
     color: red;
     width: 500px;
     border: 1px solid black;
 }
 
 li, h1 {
+    font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
     color: red;
 }
 
