@@ -5,9 +5,11 @@ p {
     border: 1px solid black;
 }
 
-li, h1 {
-    font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
-    color: red;
+.block,
+li,h1 {
+  font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+  border: 2px solid blue;
+  padding: .5em;
 }
 
 .dumbass {
